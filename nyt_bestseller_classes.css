@@ -1,0 +1,14 @@
+
+.cls-44.hover-effect {
+    fill: #eea4c6; 
+}
+
+
+body {
+  cursor: default;
+}
+
+svg text {
+  pointer-events: none;
+}
+
